@@ -1,0 +1,27 @@
+{
+  "name": "sbx.cloud-nglib",
+  "homepage": "https://github.com/sbxcloud/sbxAngularLib",
+  "authors": [
+    "Miguel 'Mike' Galeano <miklone3@hotmail.com>"
+  ],
+  "description": "sbx.clud librarie for angularjs",
+  "main": "dist/sbx.cloud-nglib.js",
+  "keywords": [
+    "sbcloud",
+    "angular",
+    "javascript",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sbx-querybuilder": "^1.0.2",
+    "angular": "^1.6.4"
+  }
+}
